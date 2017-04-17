@@ -1,0 +1,21 @@
+*{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.franjaAmarilla {
+  background: #FEF430;
+  display: block;
+  padding-top: 5px;
+  padding-bottom: 50px;
+  padding-left: 5px;
+
+
+}
+
+.franjaRosa {
+  background: #FE30AF;
+  display: block;
+  padding-bottom: 50px;
+  padding-left: 5px;
+  border: 1px solid #010101;
+
+}
